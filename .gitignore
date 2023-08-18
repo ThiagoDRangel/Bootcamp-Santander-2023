@@ -1,0 +1,23 @@
+# Arquivos de compilação Java
+*.class
+
+# Arquivos de configuração do IntelliJ IDEA
+.idea/
+
+# Arquivos gerados pelo VSCode
+.vscode/
+
+# Dependências e bibliotecas geradas
+/target/
+/lib/
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+
+# Arquivos de configuração do sistema
+.DS_Store
+Thumbs.db
+
+# Pastas
+/exercicios
