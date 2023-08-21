@@ -1,0 +1,15 @@
+C:\Users\T-Gamer\Bootcamp-Santander-2023\logica-pensamento-computacional\solucao-c#\solucao-c#\bin\Debug\net6.0\solucao-c#.exe
+C:\Users\T-Gamer\Bootcamp-Santander-2023\logica-pensamento-computacional\solucao-c#\solucao-c#\bin\Debug\net6.0\solucao-c#.deps.json
+C:\Users\T-Gamer\Bootcamp-Santander-2023\logica-pensamento-computacional\solucao-c#\solucao-c#\bin\Debug\net6.0\solucao-c#.runtimeconfig.json
+C:\Users\T-Gamer\Bootcamp-Santander-2023\logica-pensamento-computacional\solucao-c#\solucao-c#\bin\Debug\net6.0\solucao-c#.dll
+C:\Users\T-Gamer\Bootcamp-Santander-2023\logica-pensamento-computacional\solucao-c#\solucao-c#\bin\Debug\net6.0\solucao-c#.pdb
+C:\Users\T-Gamer\Bootcamp-Santander-2023\logica-pensamento-computacional\solucao-c#\solucao-c#\obj\Debug\net6.0\solucao-c#.csproj.AssemblyReference.cache
+C:\Users\T-Gamer\Bootcamp-Santander-2023\logica-pensamento-computacional\solucao-c#\solucao-c#\obj\Debug\net6.0\solucao-c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-Gamer\Bootcamp-Santander-2023\logica-pensamento-computacional\solucao-c#\solucao-c#\obj\Debug\net6.0\solucao-c#.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\Bootcamp-Santander-2023\logica-pensamento-computacional\solucao-c#\solucao-c#\obj\Debug\net6.0\solucao-c#.AssemblyInfo.cs
+C:\Users\T-Gamer\Bootcamp-Santander-2023\logica-pensamento-computacional\solucao-c#\solucao-c#\obj\Debug\net6.0\solucao-c#.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Bootcamp-Santander-2023\logica-pensamento-computacional\solucao-c#\solucao-c#\obj\Debug\net6.0\solucao-c#.dll
+C:\Users\T-Gamer\Bootcamp-Santander-2023\logica-pensamento-computacional\solucao-c#\solucao-c#\obj\Debug\net6.0\refint\solucao-c#.dll
+C:\Users\T-Gamer\Bootcamp-Santander-2023\logica-pensamento-computacional\solucao-c#\solucao-c#\obj\Debug\net6.0\solucao-c#.pdb
+C:\Users\T-Gamer\Bootcamp-Santander-2023\logica-pensamento-computacional\solucao-c#\solucao-c#\obj\Debug\net6.0\solucao-c#.genruntimeconfig.cache
+C:\Users\T-Gamer\Bootcamp-Santander-2023\logica-pensamento-computacional\solucao-c#\solucao-c#\obj\Debug\net6.0\ref\solucao-c#.dll
